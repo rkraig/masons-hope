@@ -1,0 +1,135 @@
+,FIPS,State,County,SODATAX_STORES14*,SODATAX_VENDM14*,CHIPSTAX_STORES14*,CHIPSTAX_VENDM14*,FOOD_TAX14*,geo_type
+2820,51001.0,VA,Accomack,1.5,5.3,1.5,5.3,1.5,county
+2821,51003.0,VA,Albemarle,1.5,5.3,1.5,5.3,1.5,county
+2822,51005.0,VA,Alleghany,1.5,5.3,1.5,5.3,1.5,county
+2823,51007.0,VA,Amelia,1.5,5.3,1.5,5.3,1.5,county
+2824,51009.0,VA,Amherst,1.5,5.3,1.5,5.3,1.5,county
+2825,51011.0,VA,Appomattox,1.5,5.3,1.5,5.3,1.5,county
+2826,51013.0,VA,Arlington,1.5,5.3,1.5,5.3,1.5,county
+2827,51015.0,VA,Augusta,1.5,5.3,1.5,5.3,1.5,county
+2828,51017.0,VA,Bath,1.5,5.3,1.5,5.3,1.5,county
+2829,51019.0,VA,Bedford,1.5,5.3,1.5,5.3,1.5,county
+2830,51021.0,VA,Bland,1.5,5.3,1.5,5.3,1.5,county
+2831,51023.0,VA,Botetourt,1.5,5.3,1.5,5.3,1.5,county
+2832,51025.0,VA,Brunswick,1.5,5.3,1.5,5.3,1.5,county
+2833,51027.0,VA,Buchanan,1.5,5.3,1.5,5.3,1.5,county
+2834,51029.0,VA,Buckingham,1.5,5.3,1.5,5.3,1.5,county
+2835,51031.0,VA,Campbell,1.5,5.3,1.5,5.3,1.5,county
+2836,51033.0,VA,Caroline,1.5,5.3,1.5,5.3,1.5,county
+2837,51035.0,VA,Carroll,1.5,5.3,1.5,5.3,1.5,county
+2838,51036.0,VA,Charles City,1.5,5.3,1.5,5.3,1.5,county
+2839,51037.0,VA,Charlotte,1.5,5.3,1.5,5.3,1.5,county
+2840,51041.0,VA,Chesterfield,1.5,5.3,1.5,5.3,1.5,county
+2841,51043.0,VA,Clarke,1.5,5.3,1.5,5.3,1.5,county
+2842,51045.0,VA,Craig,1.5,5.3,1.5,5.3,1.5,county
+2843,51047.0,VA,Culpeper,1.5,5.3,1.5,5.3,1.5,county
+2844,51049.0,VA,Cumberland,1.5,5.3,1.5,5.3,1.5,county
+2845,51051.0,VA,Dickenson,1.5,5.3,1.5,5.3,1.5,county
+2846,51053.0,VA,Dinwiddie,1.5,5.3,1.5,5.3,1.5,county
+2847,51057.0,VA,Essex,1.5,5.3,1.5,5.3,1.5,county
+2848,51059.0,VA,Fairfax,1.5,5.3,1.5,5.3,1.5,county
+2849,51061.0,VA,Fauquier,1.5,5.3,1.5,5.3,1.5,county
+2850,51063.0,VA,Floyd,1.5,5.3,1.5,5.3,1.5,county
+2851,51065.0,VA,Fluvanna,1.5,5.3,1.5,5.3,1.5,county
+2852,51067.0,VA,Franklin,1.5,5.3,1.5,5.3,1.5,county
+2853,51069.0,VA,Frederick,1.5,5.3,1.5,5.3,1.5,county
+2854,51071.0,VA,Giles,1.5,5.3,1.5,5.3,1.5,county
+2855,51073.0,VA,Gloucester,1.5,5.3,1.5,5.3,1.5,county
+2856,51075.0,VA,Goochland,1.5,5.3,1.5,5.3,1.5,county
+2857,51077.0,VA,Grayson,1.5,5.3,1.5,5.3,1.5,county
+2858,51079.0,VA,Greene,1.5,5.3,1.5,5.3,1.5,county
+2859,51081.0,VA,Greensville,1.5,5.3,1.5,5.3,1.5,county
+2860,51083.0,VA,Halifax,1.5,5.3,1.5,5.3,1.5,county
+2861,51085.0,VA,Hanover,1.5,5.3,1.5,5.3,1.5,county
+2862,51087.0,VA,Henrico,1.5,5.3,1.5,5.3,1.5,county
+2863,51089.0,VA,Henry,1.5,5.3,1.5,5.3,1.5,county
+2864,51091.0,VA,Highland,1.5,5.3,1.5,5.3,1.5,county
+2865,51093.0,VA,Isle of Wight,1.5,5.3,1.5,5.3,1.5,county
+2866,51095.0,VA,James City,1.5,5.3,1.5,5.3,1.5,county
+2867,51097.0,VA,King and Queen,1.5,5.3,1.5,5.3,1.5,county
+2868,51099.0,VA,King George,1.5,5.3,1.5,5.3,1.5,county
+2869,51101.0,VA,King William,1.5,5.3,1.5,5.3,1.5,county
+2870,51103.0,VA,Lancaster,1.5,5.3,1.5,5.3,1.5,county
+2871,51105.0,VA,Lee,1.5,5.3,1.5,5.3,1.5,county
+2872,51107.0,VA,Loudoun,1.5,5.3,1.5,5.3,1.5,county
+2873,51109.0,VA,Louisa,1.5,5.3,1.5,5.3,1.5,county
+2874,51111.0,VA,Lunenburg,1.5,5.3,1.5,5.3,1.5,county
+2875,51113.0,VA,Madison,1.5,5.3,1.5,5.3,1.5,county
+2876,51115.0,VA,Mathews,1.5,5.3,1.5,5.3,1.5,county
+2877,51117.0,VA,Mecklenburg,1.5,5.3,1.5,5.3,1.5,county
+2878,51119.0,VA,Middlesex,1.5,5.3,1.5,5.3,1.5,county
+2879,51121.0,VA,Montgomery,1.5,5.3,1.5,5.3,1.5,county
+2880,51125.0,VA,Nelson,1.5,5.3,1.5,5.3,1.5,county
+2881,51127.0,VA,New Kent,1.5,5.3,1.5,5.3,1.5,county
+2882,51131.0,VA,Northampton,1.5,5.3,1.5,5.3,1.5,county
+2883,51133.0,VA,Northumberland,1.5,5.3,1.5,5.3,1.5,county
+2884,51135.0,VA,Nottoway,1.5,5.3,1.5,5.3,1.5,county
+2885,51137.0,VA,Orange,1.5,5.3,1.5,5.3,1.5,county
+2886,51139.0,VA,Page,1.5,5.3,1.5,5.3,1.5,county
+2887,51141.0,VA,Patrick,1.5,5.3,1.5,5.3,1.5,county
+2888,51143.0,VA,Pittsylvania,1.5,5.3,1.5,5.3,1.5,county
+2889,51145.0,VA,Powhatan,1.5,5.3,1.5,5.3,1.5,county
+2890,51147.0,VA,Prince Edward,1.5,5.3,1.5,5.3,1.5,county
+2891,51149.0,VA,Prince George,1.5,5.3,1.5,5.3,1.5,county
+2892,51153.0,VA,Prince William,1.5,5.3,1.5,5.3,1.5,county
+2893,51155.0,VA,Pulaski,1.5,5.3,1.5,5.3,1.5,county
+2894,51157.0,VA,Rappahannock,1.5,5.3,1.5,5.3,1.5,county
+2895,51159.0,VA,Richmond,1.5,5.3,1.5,5.3,1.5,county
+2896,51161.0,VA,Roanoke,1.5,5.3,1.5,5.3,1.5,county
+2897,51163.0,VA,Rockbridge,1.5,5.3,1.5,5.3,1.5,county
+2898,51165.0,VA,Rockingham,1.5,5.3,1.5,5.3,1.5,county
+2899,51167.0,VA,Russell,1.5,5.3,1.5,5.3,1.5,county
+2900,51169.0,VA,Scott,1.5,5.3,1.5,5.3,1.5,county
+2901,51171.0,VA,Shenandoah,1.5,5.3,1.5,5.3,1.5,county
+2902,51173.0,VA,Smyth,1.5,5.3,1.5,5.3,1.5,county
+2903,51175.0,VA,Southampton,1.5,5.3,1.5,5.3,1.5,county
+2904,51177.0,VA,Spotsylvania,1.5,5.3,1.5,5.3,1.5,county
+2905,51179.0,VA,Stafford,1.5,5.3,1.5,5.3,1.5,county
+2906,51181.0,VA,Surry,1.5,5.3,1.5,5.3,1.5,county
+2907,51183.0,VA,Sussex,1.5,5.3,1.5,5.3,1.5,county
+2908,51185.0,VA,Tazewell,1.5,5.3,1.5,5.3,1.5,county
+2909,51187.0,VA,Warren,1.5,5.3,1.5,5.3,1.5,county
+2910,51191.0,VA,Washington,1.5,5.3,1.5,5.3,1.5,county
+2911,51193.0,VA,Westmoreland,1.5,5.3,1.5,5.3,1.5,county
+2912,51195.0,VA,Wise,1.5,5.3,1.5,5.3,1.5,county
+2913,51197.0,VA,Wythe,1.5,5.3,1.5,5.3,1.5,county
+2914,51199.0,VA,York,1.5,5.3,1.5,5.3,1.5,county
+2915,51510.0,VA,Alexandria,1.5,5.3,1.5,5.3,1.5,city
+2916,51515.0,VA,Bedford,1.5,5.3,1.5,5.3,1.5,city
+2917,51520.0,VA,Bristol,1.5,5.3,1.5,5.3,1.5,city
+2918,51530.0,VA,Buena Vista,1.5,5.3,1.5,5.3,1.5,city
+2919,51540.0,VA,Charlottesville,1.5,5.3,1.5,5.3,1.5,city
+2920,51550.0,VA,Chesapeake,1.5,5.3,1.5,5.3,1.5,city
+2921,51570.0,VA,Colonial Heights,1.5,5.3,1.5,5.3,1.5,city
+2922,51580.0,VA,Covington,1.5,5.3,1.5,5.3,1.5,city
+2923,51590.0,VA,Danville,1.5,5.3,1.5,5.3,1.5,city
+2924,51595.0,VA,Emporia,1.5,5.3,1.5,5.3,1.5,city
+2925,51600.0,VA,Fairfax,1.5,5.3,1.5,5.3,1.5,city
+2926,51610.0,VA,Falls Church,1.5,5.3,1.5,5.3,1.5,city
+2927,51620.0,VA,Franklin,1.5,5.3,1.5,5.3,1.5,city
+2928,51630.0,VA,Fredericksburg,1.5,5.3,1.5,5.3,1.5,city
+2929,51640.0,VA,Galax,1.5,5.3,1.5,5.3,1.5,city
+2930,51650.0,VA,Hampton,1.5,5.3,1.5,5.3,1.5,city
+2931,51660.0,VA,Harrisonburg,1.5,5.3,1.5,5.3,1.5,city
+2932,51670.0,VA,Hopewell,1.5,5.3,1.5,5.3,1.5,city
+2933,51678.0,VA,Lexington,1.5,5.3,1.5,5.3,1.5,city
+2934,51680.0,VA,Lynchburg,1.5,5.3,1.5,5.3,1.5,city
+2935,51683.0,VA,Manassas,1.5,5.3,1.5,5.3,1.5,city
+2936,51685.0,VA,Manassas Park,1.5,5.3,1.5,5.3,1.5,city
+2937,51690.0,VA,Martinsville,1.5,5.3,1.5,5.3,1.5,city
+2938,51700.0,VA,Newport News,1.5,5.3,1.5,5.3,1.5,city
+2939,51710.0,VA,Norfolk,1.5,5.3,1.5,5.3,1.5,city
+2940,51720.0,VA,Norton,1.5,5.3,1.5,5.3,1.5,city
+2941,51730.0,VA,Petersburg,1.5,5.3,1.5,5.3,1.5,city
+2942,51735.0,VA,Poquoson,1.5,5.3,1.5,5.3,1.5,city
+2943,51740.0,VA,Portsmouth,1.5,5.3,1.5,5.3,1.5,city
+2944,51750.0,VA,Radford,1.5,5.3,1.5,5.3,1.5,city
+2945,51760.0,VA,Richmond,1.5,5.3,1.5,5.3,1.5,city
+2946,51770.0,VA,Roanoke,1.5,5.3,1.5,5.3,1.5,city
+2947,51775.0,VA,Salem,1.5,5.3,1.5,5.3,1.5,city
+2948,51790.0,VA,Staunton,1.5,5.3,1.5,5.3,1.5,city
+2949,51800.0,VA,Suffolk,1.5,5.3,1.5,5.3,1.5,city
+2950,51810.0,VA,Virginia Beach,1.5,5.3,1.5,5.3,1.5,city
+2951,51820.0,VA,Waynesboro,1.5,5.3,1.5,5.3,1.5,city
+2952,51830.0,VA,Williamsburg,1.5,5.3,1.5,5.3,1.5,city
+2953,51840.0,VA,Winchester,1.5,5.3,1.5,5.3,1.5,city
